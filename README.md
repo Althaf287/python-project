@@ -16,8 +16,8 @@ Handling Missing Values: Check for missing data and drop any rows with missing v
 ### Step 4: Graphical Representations
 - `Employee Distribution Across Teams`: Create a bar chart to visualize the number of employees in each team.
 - `Segregation by Position`: Create a bar chart to display the number of employees in each position.
--`Age Group Distribution`: Create a bar chart to visualize the number of employees in each age group.
--`Salary Expenditure by Team and Position`: Visualize the total salary expenditure for each team and position using bar charts.
+- `Age Group Distribution`: Create a bar chart to visualize the number of employees in each age group.
+- `Salary Expenditure by Team and Position`: Visualize the total salary expenditure for each team and position using bar charts.
 - `Correlation Between Age and Salary`: Visualize the relationship between age and salary using a scatter plot.
 ## Libraries Used
 - `pandas` : For data manipulation and analysis.
