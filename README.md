@@ -20,8 +20,8 @@ Age Group Distribution: Create a bar chart to visualize the number of employees 
 Salary Expenditure by Team and Position: Visualize the total salary expenditure for each team and position using bar charts.
 Correlation Between Age and Salary: Visualize the relationship between age and salary using a scatter plot.
 ## Libraries Used
-- * 'pandas' : For data manipulation and analysis.
-#### numpy: For numerical operations and generating random values.
+-  ' pandas ' : For data manipulation and analysis.
+- ' numpy ' : For numerical operations and generating random values.
 #### matplotlib: For data visualization.
 #### seaborn: For advanced statistical plots and visualizations.
 ## How to Run the Project
