@@ -25,13 +25,14 @@ Handling Missing Values: Check for missing data and drop any rows with missing v
 - `matplotlib` : For data visualization.
 - `seaborn` : For advanced statistical plots and visualizations.
 ## How to Run the Project
-#### Clone the repository to your local machine.
-#### Install the required libraries:
+* Clone the repository to your local machine.
+* Install the required libraries:
 
-pip install pandas numpy matplotlib seaborn
+`pip install pandas numpy matplotlib seaborn`
 
-#### Download the dataset and save it as a .csv file.
-#### Update the path to the CSV file in the code.
+* Download the dataset and save it as a .csv file.
+* Update the path to the CSV file in the code.
+  
 #### Run the Jupyter Notebook or Python script to see the analysis and visualizations.
 ## Conclusion
 This project provides insights into employee distribution, salary expenditure, and the correlation between age and salary at ABC Company. The visualizations help in understanding the data better and can guide decision-making in areas like team management, salary planning, and workforce demographics.
