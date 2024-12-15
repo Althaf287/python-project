@@ -9,10 +9,10 @@ Fixing the "Height" Column: Replace the 'height' column values with random numbe
 Handling Missing Values: Check for missing data and drop any rows with missing values to ensure clean data for analysis.
 ### Step 3: Analysis Tasks
 - `Employee Distribution by Team`: Calculate the number and percentage of employees in each team.
--`Segregate Employees by Position`: Group employees based on their job position within the company.
--`Identify Predominant Age Group`: Create age ranges and determine the most common age group among employees.
--`Find Team/Position with Highest Salary Expenditure`: Identify the team and position with the highest salary expenditures.
--`Correlation Between Age and Salary`: Investigate the relationship between employees' ages and their salaries.
+- `Segregate Employees by Position`: Group employees based on their job position within the company.
+- `Identify Predominant Age Group`: Create age ranges and determine the most common age group among employees.
+- `Find Team/Position with Highest Salary Expenditure`: Identify the team and position with the highest salary expenditures.
+- `Correlation Between Age and Salary`: Investigate the relationship between employees' ages and their salaries.
 ### Step 4: Graphical Representations
 Employee Distribution Across Teams: Create a bar chart to visualize the number of employees in each team.
 Segregation by Position: Create a bar chart to display the number of employees in each position.
