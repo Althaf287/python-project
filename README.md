@@ -14,11 +14,11 @@ Handling Missing Values: Check for missing data and drop any rows with missing v
 - `Find Team/Position with Highest Salary Expenditure`: Identify the team and position with the highest salary expenditures.
 - `Correlation Between Age and Salary`: Investigate the relationship between employees' ages and their salaries.
 ### Step 4: Graphical Representations
-Employee Distribution Across Teams: Create a bar chart to visualize the number of employees in each team.
-Segregation by Position: Create a bar chart to display the number of employees in each position.
-Age Group Distribution: Create a bar chart to visualize the number of employees in each age group.
-Salary Expenditure by Team and Position: Visualize the total salary expenditure for each team and position using bar charts.
-Correlation Between Age and Salary: Visualize the relationship between age and salary using a scatter plot.
+- `Employee Distribution Across Teams`: Create a bar chart to visualize the number of employees in each team.
+- `Segregation by Position`: Create a bar chart to display the number of employees in each position.
+-`Age Group Distribution`: Create a bar chart to visualize the number of employees in each age group.
+-`Salary Expenditure by Team and Position`: Visualize the total salary expenditure for each team and position using bar charts.
+- `Correlation Between Age and Salary`: Visualize the relationship between age and salary using a scatter plot.
 ## Libraries Used
 - `pandas` : For data manipulation and analysis.
 - ` numpy` : For numerical operations and generating random values.
